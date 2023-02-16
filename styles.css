@@ -12,18 +12,18 @@ body{
 }
 
 h1{
-  margin: 100px;
-  padding: 50px;
-  font-size: 40pt;
+  margin: 50px;
+  padding: 40px 60px;
+  font-size: 30pt;
   border-radius: 100px;
   background-color: antiquewhite;
 }
 
 #clock{
-  font-size: 70pt;
+  font-size: 50pt;
   text-transform: uppercase;
 }
 
 #date{
-  font-size: 60pt;
+  font-size: 40pt;
 }
